@@ -1,0 +1,3 @@
+interface:
+  display_name: "Network Ticket Triage"
+  short_description: "Compact L1/L2 triage with one-way MTR and iPerf diagrams"
